@@ -6,7 +6,7 @@ I build automations with n8n, GPT, SQL, and Claude, and I’m learning full-stac
 
 ### 🎵 Groovy: a social concert diary
 
-[Groovy](https://groovy-web-smo9.onrender.com) is a concert diary and discovery app I built with the help of AI coding tools. It lets people keep a record of shows they’ve attended, find upcoming concerts, and connect with friends through shared music taste.
+[Groovy](https://groovy-web-smo9.onrender.com) is Strava for concerts: a place to log shows you’ve attended, discover upcoming concerts, and connect with friends through shared music taste. I built it with the help of AI coding tools.
 
 * Save shows with ratings and notes
 * Import concert history from Setlist.fm

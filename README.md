@@ -13,9 +13,13 @@ I build automations with n8n, GPT, SQL, and Claude, and I’m learning full-stac
 * Discover upcoming shows through Ticketmaster
 * Find friends with similar music taste
 
-<img width="500" height="705" alt="Screenshot 2026-09-18 at 1 03 45 PM" src="https://github.com/user-attachments/assets/762e5053-13e8-439f-bec7-c6beddbad807" />
+<img width="645" height="1398" alt="IMG_2199" src="https://github.com/user-attachments/assets/27623078-8a96-4795-a97d-f4c402cbb47d" />
 
-<img width="496" height="695" alt="Screenshot 2026-09-18 at 1 01 56 PM" src="https://github.com/user-attachments/assets/2567f369-f97c-4b32-afb2-d5e17e20ab04" />
+
+<img width="645" height="1398" alt="IMG_2200" src="https://github.com/user-attachments/assets/a740eae1-918c-4db5-bf8a-93f93ce2514b" />
+
+
+<img width="645" height="1398" alt="IMG_2201" src="https://github.com/user-attachments/assets/4e92711e-1454-4b8e-a983-7b2ec3b069ba" />
 
 
 **Built with:** React Native, Expo, TypeScript, Express, PostgreSQL, React Query, Clerk, and OpenAPI-generated clients.

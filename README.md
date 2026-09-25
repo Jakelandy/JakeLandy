@@ -4,9 +4,9 @@ I spent five years working with startups on capital raises at StartEngine. Along
 
 I build automations with n8n, GPT, SQL, and Claude, and I’m learning full-stack development by making products I want to use.
 
-### 🎵 Groovy: a social concert diary
+### 🎵 Après Groove (formerly Groovy): a social concert diary
 
-[Groovy](https://groovy-web-smo9.onrender.com) is Strava for concerts: a place to log shows you’ve attended, discover upcoming concerts, and connect with friends through shared music taste. I built it with the help of AI coding tools.
+[Après Groove](https://groovy-web-smo9.onrender.com) is Strava for concerts: a place to keep a record of the shows you’ve attended, discover what’s coming next, and connect with people through shared live music history. I built it with the help of AI coding tools.
 
 * Save shows with ratings and notes
 * Import concert history from Setlist.fm

@@ -12,15 +12,16 @@ I build automations with n8n, GPT, SQL, and Claude, and I’m learning full-stac
 * Import concert history from Setlist.fm
 * Discover upcoming shows through Ticketmaster
 * Find friends with similar music taste
+* Check in at shows on a live map as your own character
+* Collect milestone records in the Crate
 
-<img width="645" height="1398" alt="IMG_2199" src="https://github.com/user-attachments/assets/27623078-8a96-4795-a97d-f4c402cbb47d" />
+| Home | Map | Diary |
+| :---: | :---: | :---: |
+| <img src="./screenshots/apres-home.png" alt="Après Home: log a show and see shows near you" width="220"> | <img src="./screenshots/apres-map.png" alt="Après map: your character with tonight's venues around you" width="220"> | <img src="./screenshots/apres-diary.png" alt="Après Diary: every show you've been to, by year" width="220"> |
 
-
-<img width="645" height="1398" alt="IMG_2200" src="https://github.com/user-attachments/assets/a740eae1-918c-4db5-bf8a-93f93ce2514b" />
-
-
-<img width="645" height="1398" alt="IMG_2201" src="https://github.com/user-attachments/assets/4e92711e-1454-4b8e-a983-7b2ec3b069ba" />
-
+| People | The Crate |
+| :---: | :---: |
+| <img src="./screenshots/apres-people.png" alt="Après People: friends and shared artists" width="220"> | <img src="./screenshots/apres-crate.png" alt="Après Crate: milestones pressed as collectible records" width="220"> |
 
 **Built with:** React Native, Expo, TypeScript, Express, PostgreSQL, React Query, Clerk, and OpenAPI-generated clients.
 

@@ -6,7 +6,7 @@ I build automations with n8n, GPT, SQL, and Claude, and I’m learning full-stac
 
 ### 🎵 Après (formerly Groovy): a social concert diary
 
-[Après](https://groovy-web-smo9.onrender.com) is Strava for concerts: a place to keep a record of the shows you’ve attended, discover what’s coming next, and connect with people through shared live music history. I built it with the help of AI coding tools.
+[Après](https://apresgroove.app) is Strava for concerts: a place to keep a record of the shows you’ve attended, discover what’s coming next, and connect with people through shared live music history. I built it with the help of AI coding tools.
 
 * Save shows with ratings and notes
 * Import concert history from Setlist.fm

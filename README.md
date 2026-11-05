@@ -19,9 +19,9 @@ I build automations with n8n, GPT, SQL, and Claude, and I’m learning full-stac
 | :---: | :---: | :---: |
 | <img src="./screenshots/apres-home.png" alt="Après Home: log a show and see shows near you" width="220"> | <img src="./screenshots/apres-map.png" alt="Après map: your character with tonight's venues around you" width="220"> | <img src="./screenshots/apres-diary.png" alt="Après Diary: every show you've been to, by year" width="220"> |
 
-| People | The Crate |
-| :---: | :---: |
-| <img src="./screenshots/apres-people.png" alt="Après People: friends and shared artists" width="220"> | <img src="./screenshots/apres-crate.png" alt="Après Crate: milestones pressed as collectible records" width="220"> |
+| People | The Crate | Setlists |
+| :---: | :---: | :---: |
+| <img src="./screenshots/apres-people.png" alt="Après People: friends and shared artists" width="220"> | <img src="./screenshots/apres-crate.png" alt="Après Crate: milestones pressed as collectible records" width="220"> | <img src="./screenshots/apres-setlist.png" alt="Après setlist: every song from the night you were there" width="220"> |
 
 **Built with:** React Native, Expo, TypeScript, Express, PostgreSQL, React Query, Clerk, and OpenAPI-generated clients.
 

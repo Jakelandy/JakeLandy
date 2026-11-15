@@ -4,26 +4,26 @@ I spent five years working with startups on capital raises at StartEngine. Along
 
 I build automations with n8n, GPT, SQL, and Claude, and I’m learning full-stack development by making products I want to use.
 
-### 🎵 Après (formerly Groovy): a social concert diary
+### 🎵 Après: live music with your friends
 
-[Après](https://apresgroove.app) is Strava for concerts: a place to keep a record of the shows you’ve attended, discover what’s coming next, and connect with people through shared live music history. I built it with the help of AI coding tools.
+[Après](https://apresgroove.app) is Strava for concerts: see which shows your friends are going to, make plans together, find what's on near you tonight, and keep every show you've been to. I'm building it with AI coding tools, and friends are testing it now.
 
-* Save shows with ratings and notes
-* Import concert history from Setlist.fm
-* Discover upcoming shows through Ticketmaster
-* Find friends with similar music taste
-* Check in at shows on a live map as your own character
+* See every show your friends have plans for, and make plans with invites, RSVPs and a group chat
+* Find tonight's shows near you on a map or a night-by-night list (Ticketmaster and SeatGeek), and star your favourite venues
+* Check in at the venue, or automatically when you arrive at a show you said you're going to
+* Keep a diary of every show with ratings, notes, photos and setlists, and import past shows from Setlist.fm and Ticketmaster
+* Get ticket reminders before on-sales and a "Did you go?" the morning after
 * Collect milestone records in the Crate
 
-| Home | Map | Diary |
+| Home | Map | Tonight's list |
 | :---: | :---: | :---: |
-| <img src="./screenshots/apres-home.png" alt="Après Home: log a show and see shows near you" width="220"> | <img src="./screenshots/apres-map.png" alt="Après map: your character with tonight's venues around you" width="220"> | <img src="./screenshots/apres-diary.png" alt="Après Diary: every show you've been to, by year" width="220"> |
+| <img src="./screenshots/apres-home.png" alt="Après Home: your next show and recommended shows near you" width="220"> | <img src="./screenshots/apres-map.png" alt="Après map: tonight's shows near you, each bubble leading with who's playing" width="220"> | <img src="./screenshots/apres-list.png" alt="Après list: every show tonight with distance and a star for your venues" width="220"> |
 
-| People | The Crate | Setlists |
+| Friends | Profile | The Crate |
 | :---: | :---: | :---: |
-| <img src="./screenshots/apres-people.png" alt="Après People: friends and shared artists" width="220"> | <img src="./screenshots/apres-crate.png" alt="Après Crate: milestones pressed as collectible records" width="220"> | <img src="./screenshots/apres-setlist.png" alt="Après setlist: every song from the night you were there" width="220"> |
+| <img src="./screenshots/apres-friends.png" alt="Après Friends: your plans and the shows your friends are going to" width="220"> | <img src="./screenshots/apres-profile.png" alt="Après profile: favourite shows, upcoming shows and your diary" width="220"> | <img src="./screenshots/apres-crate.png" alt="Après Crate: milestones pressed as collectible records" width="220"> |
 
-**Built with:** React Native, Expo, TypeScript, Express, PostgreSQL, React Query, Clerk, and OpenAPI-generated clients.
+**Built with:** React Native, Expo (EAS builds and over-the-air updates), TypeScript, Express, PostgreSQL (Neon), Drizzle, React Query, Clerk, OpenAPI-generated clients, Render, and Cloudflare Workers.
 
 ### Background
 
